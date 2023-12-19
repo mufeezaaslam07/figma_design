@@ -1,0 +1,12 @@
+@media only screen and (min-width: 768px) {
+  .content {
+    width: 40%;
+    margin-top: 3rem;
+  }
+  h2 {
+    font-size: 17px;
+  }
+  .img {
+    width: 80%;
+  }
+}

@@ -1,0 +1,23 @@
+.navbar-nav .nav-link,
+.navbar-nav .nav-item .nav-link,
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link,
+.navbar-nav .nav-item:focus .nav-link,
+.navbar-nav .nav-item:active .nav-link,
+.navbar-nav .nav-item.dropdown.show .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-item.dropdown:hover .nav-link,
+.navbar-nav .nav-item.dropdown:focus .nav-link,
+.navbar-nav .nav-item.dropdown:active .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-item.dropdown.show .nav-link {
+  color: white !important;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-color: white !important;
+}
